@@ -1,11 +1,12 @@
 # Welcome to my landfill.
-I put nearly everything I make here, so there's no guarantee of quality.
+I have lots of things here.
 
 ### Notable Projects
 A quick list of projects that I've ensured are passable as work
   
 | Project | Description |
 |---------|-------------|
+| [yori@git.yorip.dev](https://git.yorip.dev/yori)                   | My personal account on my personal Forgejo instance. |
 | [shuttle-blog](https://github.com/Proxxa/shuttle-blog)             | A simple blog written in Svelte with a Rust backend.                            |
 | [rocket-hello-world](https://github.com/Proxxa/rocket-hello-world) | An extremely simple Rust/Rocket "Hello, World!" server available on Docker Hub. |
 | [bf-compiler](https://github.com/Proxxa/bf-compiler)               | A "bf" compiler built using Rust and GCC/Clang.                                 |
@@ -22,7 +23,6 @@ A quick list of projects that I've ensured are passable as work
   ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
   ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
   ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220)
-  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
   ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
   ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
   ![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
