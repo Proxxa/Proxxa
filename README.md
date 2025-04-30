@@ -53,7 +53,7 @@ A quick list of projects that I've ensured are passable as work
 
   [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22540729/yori)
   [![Docker](https://img.shields.io/badge/docker_hub-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://hub.docker.com/repositories/proxxa)
-  [![Svelte](https://img.shields.io/badge/proxxa.github.io-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)](https://proxxa.github.io)
+  [![Svelte](https://img.shields.io/badge/yorip.dev-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)](https://yorip.dev)
 
 </div>
 
